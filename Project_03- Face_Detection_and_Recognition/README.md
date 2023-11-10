@@ -139,7 +139,8 @@ This project was the most interesting part that helped me to learn more about ho
   <source src="./part_3_funny_video.mp4)" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-<center>Figure 3: Augmented Reality Filter</center>
+[![Watch the video](https://github.com/Debashis-Gupta/Computer-Vision-Projects/blob/main/Project_03-%20Face_Detection_and_Recognition/part_3_funny_video.mp4)]
+<center>Figure 3: Augmented Reality Filter</center>)
 
 </div>
 
