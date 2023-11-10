@@ -192,4 +192,4 @@ Please note, the frame was tried to be kept approximately (as close as possible)
 
 
 <h3>Github Projects for Computer Vision</h3>
-Check this github repo for my other Computer Vision Project.
+Check this <a href="https://github.com/Debashis-Gupta/Computer-Vision-Projects">github repo</a> for my other Computer Vision Project.
