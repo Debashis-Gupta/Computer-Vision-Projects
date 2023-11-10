@@ -135,12 +135,7 @@ This project was the most interesting part that helped me to learn more about ho
 2. <span style="color:yellow; font-weight:bold">overlay_image_alpha</span>: The overlay_image_alpha function accepts four parameters: img (the base image), img_overlay (the image to be overlaid), pos (the position on the base image), and alpha_mask (the alpha mask). The function superimposes the image overlay over the image at the designated point, taking into account the level of transparency determined by the alpha mask. The function computes the appropriate regions for overlay and merges the two images by merging their RGB channels with the alpha channel, resulting in a composite image that exhibits transparency. 
 3. <span style="color:yellow; font-weight:bold">How the filters are applied</span>: I used the haar classifier to calculate the face and eye region  and use the overlay_image_alpha function to put the filter on the detected regions respectively. Additionally, I used the calculation nose face ratio that helps me to approximate the nose position and later used the overlay function to apply the nose filter on it.
 
-<video width="700" height="600" controls>
-  <source src="./part_3_funny_video.mp4)" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
+<h4>Download the video to see what filters work.</h4>
 
 </div>
 
