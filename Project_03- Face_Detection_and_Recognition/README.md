@@ -136,7 +136,7 @@ This project was the most interesting part that helped me to learn more about ho
 3. <span style="color:yellow; font-weight:bold">How the filters are applied</span>: I used the haar classifier to calculate the face and eye region  and use the overlay_image_alpha function to put the filter on the detected regions respectively. Additionally, I used the calculation nose face ratio that helps me to approximate the nose position and later used the overlay function to apply the nose filter on it.
 
 <video width="700" height="600" controls>
-  <source src="https://github.com/Debashis-Gupta/Computer-Vision-Projects/blob/main/Project_03-%20Face_Detection_and_Recognition/part_3_funny_video.mp4)" type="video/mp4">
+  <source src="./part_3_funny_video.mp4)" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 <center>Figure 3: Augmented Reality Filter</center>
